@@ -38,16 +38,16 @@ Fc = 1;   % Frequency
 % Step reference signal
 Flp = 0.5;
 % Master controller
-Bm = 20*0.8;  % Derivative
-Km = 10*1;    % Proportional
+Bm = 10;  % Derivative
+Km = 20;    % Proportional
 % Human controller
-Dh = 20*0.8; % Derivative
-Ph = 10*1;   % Proportional
+Dh = 50;% 16; % Derivative
+Ph = 2000;% 10; % Proportional
 % Slave controller
-Bs = 4*Bm;  % Derivative
-Ks = 4*Km;  % Proportional
+Bs = 500;  % Derivative
+Ks = 4000;  % Proportional
 
-%% Model w/ Dm = 0, Ds = 0
+%% Z width
 
 % Transfer functions
 Cm = Bm + Km/s; % Master controller
@@ -68,4 +68,4 @@ fprintf("Zt_width = %f\n", Zt_width);
 %% Load the model
 
 % Load and open the Simulink system
-open('siso_4ch_teleop.slx');
+open('teleop_4ch.slx');
