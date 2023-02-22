@@ -24,7 +24,7 @@ Ts = 0.001;
 Mm = 0.5; % Master robot's mass
 Ms = 2;   % Slave robot's mass
 Dm = 5;   % Master damping
-Ds = 10;   % Slave damping
+Ds = 0;   % Slave damping
 % Human parameters
 Jh = 1;   % Inertia
 Bh = 1;   % Damping 
@@ -72,6 +72,6 @@ Flp = 0.01;
 open('scattering_FP.slx');
 
 %% POSITION-POSITION
-
+Dm = 0;
 % Load and open the Simulink system
 open('scattering_PP.slx');
