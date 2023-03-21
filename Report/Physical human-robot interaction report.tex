@@ -1,0 +1,125 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amsfonts} 
+\usepackage{physics} 
+\usepackage{rotating}
+\usepackage{enumitem}
+\setlength{\headheight}{15pt}
+\usepackage[italian]{varioref}
+\usepackage{hyperref}
+\usepackage{steinmetz}
+\hypersetup{colorlinks=true, linkcolor=magenta, citecolor=green, urlcolor=blue} 
+\usepackage{mathtools}
+\hypersetup{linktoc=page}
+\usepackage{extramarks}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={190mm,257mm},
+ left=15mm,
+ right=15mm,
+ top=20mm,
+ }
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{amsthm}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{minipage}{\medskip}
+\AfterEndEnvironment{minipage}{\medskip}
+\usepackage{tocloft}
+\usepackage{indentfirst}
+\usepackage{tikz}
+\usepackage{afterpage}
+\numberwithin{equation}{section}
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+\newcommand\blankpagewnumber{%
+    \null
+    \newpage}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\U}{\mathcal{U}}
+\renewcommand{\L}{\mathcal{L}}
+\usepackage{blkarray, bigstrut}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+\afterpage{\blankpage}
+\begin{titlepage}
+\begin{center}
+\huge Master's degree in Computer Engineering for Robotics and Smart Industry
+\end{center}
+\vspace*{\fill}
+\begin{center}
+\textbf{\Huge Physical Human-Robot Interaction}
+\end{center}
+\begin{center}
+Report on the assignments given during the 2022/2023 a.y.
+\end{center}
+\vspace*{\fill}
+\begin{center}
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft}
+Author: Lorenzo Busellato, VR472249\\
+email: lorenzo.busellato\_02@studenti.univr.it
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{flushright}
+\includegraphics[keepaspectratio,width=0.6\textwidth]{logo}
+\end{flushright}
+\end{minipage}
+
+\end{center}
+\vspace{1cm}
+\end{titlepage}
+
+
+\afterpage{\blankpage}
+\thispagestyle{empty}
+\setcounter{page}{0}
+\pagenumbering{gobble}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\clearpage
+
+\fancyhead[R]{}
+\fancyhead[L]{}
+\pagestyle{fancy}
+\pagenumbering{arabic}
+
+\include{sections/ass1}
+
+\newpage
+
+\include{sections/ass2}
+
+\newpage
+
+\include{sections/ass3}
+
+\newpage
+
+\include{sections/ass4}
+
+\newpage
+
+\include{sections/ass5}
+
+\newpage
+
+\include{sections/ass6}
+
+\newpage
+
+\include{sections/ass7}
+
+
+\end{document}

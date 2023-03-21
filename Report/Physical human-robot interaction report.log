@@ -1,0 +1,1739 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.20)  21 MAR 2023 19:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Physical human-robot interaction report.tex"
+(./Physical human-robot interaction report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box52
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count272
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box53
+\rot@mess@toks=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen150
+\enit@toks=\toks23
+\enit@inbox=\box54
+\enit@count@id=\count273
+\enitdp@description=\count274
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/varioref.sty
+Package: varioref 2021/07/07 v1.6f package for extended references (FMi)
+\c@vrcnt=\count275
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count279
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen152
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/steinmetz/steinmetz.sty
+Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks24
+\@arclen=\dimen155
+\@arcrad=\dimen156
+\pIIe@tempdima=\dimen157
+\pIIe@tempdimb=\dimen158
+\pIIe@tempdimc=\dimen159
+\pIIe@tempdimd=\dimen160
+\pIIe@tempdime=\dimen161
+\pIIe@tempdimf=\dimen162
+)
+\stm@phasebox=\box55
+\stm@phasedp=\skip56
+\stm@phaseht=\skip57
+\stm@phasetot=\skip58
+\stm@phasewd=\skip59
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2021/02/02 v1.28 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count286
+\calc@Bcount=\count287
+\calc@Adimen=\dimen163
+\calc@Bdimen=\dimen164
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count288
+\calc@Cskip=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count289
+\l_MT_multwidth_dim=\dimen165
+\origjot=\skip63
+\l_MT_shortvdotswithinadjustabove_dim=\dimen166
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen167
+\l_MT_above_intertext_sep=\dimen168
+\l_MT_below_intertext_sep=\dimen169
+\l_MT_above_shortintertext_sep=\dimen170
+\l_MT_below_shortintertext_sep=\dimen171
+\xmathstrut@box=\box56
+\xmathstrut@dim=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+Package: extramarks 2021/01/28 v4.0.1 Extra marks for LaTeX
+\@temptokenb=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks26
+\float@box=\box57
+\@float@everytoks=\toks27
+\@floatcapt=\box58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
+\Gm@dimlist=\toks28
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (540.60236pt) is ignored.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks29
+\thm@bodyfont=\toks30
+\thm@headfont=\toks31
+\thm@notefont=\toks32
+\thm@headpunct=\toks33
+\thm@preskip=\skip73
+\thm@postskip=\skip74
+\thm@headsep=\skip75
+\dth@everypar=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip76
+\cftbeforetoctitleskip=\skip77
+\cftaftertoctitleskip=\skip78
+\cftbeforepartskip=\skip79
+\cftpartnumwidth=\skip80
+\cftpartindent=\skip81
+\cftbeforesecskip=\skip82
+\cftsecindent=\skip83
+\cftsecnumwidth=\skip84
+\cftbeforesubsecskip=\skip85
+\cftsubsecindent=\skip86
+\cftsubsecnumwidth=\skip87
+\cftbeforesubsubsecskip=\skip88
+\cftsubsubsecindent=\skip89
+\cftsubsubsecnumwidth=\skip90
+\cftbeforeparaskip=\skip91
+\cftparaindent=\skip92
+\cftparanumwidth=\skip93
+\cftbeforesubparaskip=\skip94
+\cftsubparaindent=\skip95
+\cftsubparanumwidth=\skip96
+\cftbeforeloftitleskip=\skip97
+\cftafterloftitleskip=\skip98
+\cftbeforefigskip=\skip99
+\cftfigindent=\skip100
+\cftfignumwidth=\skip101
+\c@lofdepth=\count295
+\c@lotdepth=\count296
+\cftbeforelottitleskip=\skip102
+\cftafterlottitleskip=\skip103
+\cftbeforetabskip=\skip104
+\cfttabindent=\skip105
+\cfttabnumwidth=\skip106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen181
+\pgfutil@tempdimb=\dimen182
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen183
+\pgf@y=\dimen184
+\pgf@xa=\dimen185
+\pgf@ya=\dimen186
+\pgf@xb=\dimen187
+\pgf@yb=\dimen188
+\pgf@xc=\dimen189
+\pgf@yc=\dimen190
+\pgf@xd=\dimen191
+\pgf@yd=\dimen192
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count297
+\c@pgf@countb=\count298
+\c@pgf@countc=\count299
+\c@pgf@countd=\count300
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count301
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen193
+\pgfmath@count=\count304
+\pgfmath@box=\box60
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count305
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen194
+\pgf@picmaxx=\dimen195
+\pgf@picminy=\dimen196
+\pgf@picmaxy=\dimen197
+\pgf@pathminx=\dimen198
+\pgf@pathmaxx=\dimen199
+\pgf@pathminy=\dimen256
+\pgf@pathmaxy=\dimen257
+\pgf@xx=\dimen258
+\pgf@xy=\dimen259
+\pgf@yx=\dimen260
+\pgf@yy=\dimen261
+\pgf@zx=\dimen262
+\pgf@zy=\dimen263
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen264
+\pgf@path@lasty=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen266
+\pgf@shorten@start@additional=\dimen267
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count306
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen268
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen269
+\pgf@pt@y=\dimen270
+\pgf@pt@temp=\dimen271
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen272
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen273
+\pgf@sys@shading@range@num=\count307
+\pgf@shadingcount=\count308
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box65
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen274
+\pgf@nodesepend=\dimen275
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen276
+\pgffor@skip=\dimen277
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen278
+)
+\tikz@lastx=\dimen279
+\tikz@lasty=\dimen280
+\tikz@lastxsaved=\dimen281
+\tikz@lastysaved=\dimen282
+\tikz@lastmovetox=\dimen283
+\tikz@lastmovetoy=\dimen284
+\tikzleveldistance=\dimen285
+\tikzsiblingdistance=\dimen286
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks47
+\AP@partial=\box70
+\AP@footins=\box71
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blkarray/blkarray.sty
+Package: blkarray 2015/02/27 v0.07 Block array (dpc)
+\c@BAenumi=\count318
+\BA@col=\count319
+\BA@block@cnt=\count320
+\BA@final@box=\box72
+\BA@first@box=\box73
+\BA@colsep=\dimen287
+\BA@ftn=\toks48
+\BAextrarowheight=\dimen288
+\BAextraheightafterhline=\dimen289
+\BAarrayrulewidth=\dimen290
+\BAdoublerulesep=\dimen291
+\BAfootskip=\dimen292
+\BA@dashbox=\box74
+\BA@ddashbox=\box75
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+\bigstrutjot=\dimen293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(./Physical human-robot interaction report.aux (./sections/ass1.aux)
+(./sections/ass2.aux) (./sections/ass3.aux) (./sections/ass4.aux)
+(./sections/ass5.aux) (./sections/ass6.aux) (./sections/ass7.aux
+
+LaTeX Warning: Label `fig:spp_free_nok' multiply defined.
+
+
+LaTeX Warning: Label `fig:spp_free_k' multiply defined.
+
+
+LaTeX Warning: Label `fig:spp_contact_nok' multiply defined.
+
+
+LaTeX Warning: Label `fig:spp_contact_k' multiply defined.
+
+))
+\openout1 = `"Physical human-robot interaction report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count321
+\scratchdimen=\dimen294
+\scratchbox=\box76
+\nofMPsegments=\count322
+\nofMParguments=\count323
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count324
+\MPscratchDim=\dimen295
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
+\everyMPtoPDFconversion=\toks50
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 52.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count327
+LaTeX Info: Redefining \Ref on input line 520.
+)
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
+
+(./Physical human-robot interaction report.out)
+(./Physical human-robot interaction report.out)
+\@outlinefile=\write4
+\openout4 = `"Physical human-robot interaction report.out"'.
+
+LaTeX Info: Redefining \Ref on input line 52.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23582pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-55.36449pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./images//logo.png, id=95, 903.375pt x 321.2pt>
+File: ./images//logo.png Graphic file (type png)
+<use ./images//logo.png>
+Package pdftex.def Info: ./images//logo.png  used on input line 75.
+(pdftex.def)             Requested size: 153.64644pt x 54.62778pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.png>]pdfTeX
+ warning (ext4): destination with the same identifier (name{page.1}) has been a
+lready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 \end{titlepage}
+                     [1] (./Physical human-robot interaction report.toc)
+\tf@toc=\write5
+\openout5 = `"Physical human-robot interaction report.toc"'.
+
+
+[1]pdfTeX warning (ext4): destination with the same identifier (name{page.}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.91 \clearpage
+                [1
+
+]
+\openout2 = `sections/ass1.aux'.
+
+ (./sections/ass1.tex
+<./images//4ch_arch.png, id=140, 807.015pt x 313.17pt>
+File: ./images//4ch_arch.png Graphic file (type png)
+<use ./images//4ch_arch.png>
+Package pdftex.def Info: ./images//4ch_arch.png  used on input line 7.
+(pdftex.def)             Requested size: 460.93153pt x 178.86714pt.
+<./images//4ch_simulink.png, id=141, 1271.5003pt x 509.65407pt>
+File: ./images//4ch_simulink.png Graphic file (type png)
+<use ./images//4ch_simulink.png>
+Package pdftex.def Info: ./images//4ch_simulink.png  used on input line 38.
+(pdftex.def)             Requested size: 435.3303pt x 174.49324pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \newpage
+              [1
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.42 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.42 \newpage
+              <./images//4ch_arch.png> <./images//4ch_simulink.png>]
+<./images//sin_free_nod.png, id=156, 713.66624pt x 698.61pt>
+File: ./images//sin_free_nod.png Graphic file (type png)
+<use ./images//sin_free_nod.png>
+Package pdftex.def Info: ./images//sin_free_nod.png  used on input line 47.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//step_free_nod.png, id=157, 713.66624pt x 698.61pt>
+File: ./images//step_free_nod.png Graphic file (type png)
+<use ./images//step_free_nod.png>
+Package pdftex.def Info: ./images//step_free_nod.png  used on input line 52.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//sin_contact_nod.png, id=158, 713.66624pt x 698.61pt>
+File: ./images//sin_contact_nod.png Graphic file (type png)
+<use ./images//sin_contact_nod.png>
+Package pdftex.def Info: ./images//sin_contact_nod.png  used on input line 59.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//step_contact_nod.png, id=159, 713.66624pt x 698.61pt>
+File: ./images//step_contact_nod.png Graphic file (type png)
+<use ./images//step_contact_nod.png>
+Package pdftex.def Info: ./images//step_contact_nod.png  used on input line 64.
+
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 45--69
+[]$[]$ $[]$ 
+ []
+
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.73 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.73 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.73 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.73 \newpage
+              <./images//sin_free_nod.png> <./images//step_free_nod.png> <./ima
+ges//sin_contact_nod.png> <./images//step_contact_nod.png>]
+<./images//sin_free_d.png, id=176, 713.66624pt x 698.61pt>
+File: ./images//sin_free_d.png Graphic file (type png)
+<use ./images//sin_free_d.png>
+Package pdftex.def Info: ./images//sin_free_d.png  used on input line 78.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//step_free_d.png, id=177, 713.66624pt x 698.61pt>
+File: ./images//step_free_d.png Graphic file (type png)
+<use ./images//step_free_d.png>
+Package pdftex.def Info: ./images//step_free_d.png  used on input line 83.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//sin_contact_d.png, id=178, 713.66624pt x 698.61pt>
+File: ./images//sin_contact_d.png Graphic file (type png)
+<use ./images//sin_contact_d.png>
+Package pdftex.def Info: ./images//sin_contact_d.png  used on input line 90.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+<./images//step_contact_d.png, id=179, 713.66624pt x 698.61pt>
+File: ./images//step_contact_d.png Graphic file (type png)
+<use ./images//step_contact_d.png>
+Package pdftex.def Info: ./images//step_contact_d.png  used on input line 95.
+(pdftex.def)             Requested size: 256.07481pt x 250.66792pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 76--100
+[]$[]$ $[]$ 
+ []
+
+) [3pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 \include{sections/ass1}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 \include{sections/ass1}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 \include{sections/ass1}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 \include{sections/ass1}
+                             <./images//sin_free_d.png> <./images//step_free_d.
+png> <./images//sin_contact_d.png> <./images//step_contact_d.png>]
+\openout2 = `sections/ass2.aux'.
+
+
+(./sections/ass2.tex
+<./images//2_3_ch_arch.png, id=198, 1109.64563pt x 414.04688pt>
+File: ./images//2_3_ch_arch.png Graphic file (type png)
+<use ./images//2_3_ch_arch.png>
+Package pdftex.def Info: ./images//2_3_ch_arch.png  used on input line 18.
+(pdftex.def)             Requested size: 460.93153pt x 171.99051pt.
+ [4
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.22 \newpage
+              <./images//2_3_ch_arch.png>]
+<./images//PP_free_nod.png, id=206, 722.7pt x 694.09312pt>
+File: ./images//PP_free_nod.png Graphic file (type png)
+<use ./images//PP_free_nod.png>
+Package pdftex.def Info: ./images//PP_free_nod.png  used on input line 28.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FP_free_nod.png, id=207, 722.7pt x 694.09312pt>
+File: ./images//FP_free_nod.png Graphic file (type png)
+<use ./images//FP_free_nod.png>
+Package pdftex.def Info: ./images//FP_free_nod.png  used on input line 34.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FF_free_nod.png, id=208, 722.7pt x 694.09312pt>
+File: ./images//FF_free_nod.png Graphic file (type png)
+<use ./images//FF_free_nod.png>
+Package pdftex.def Info: ./images//FF_free_nod.png  used on input line 42.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//PFP_free_nod.png, id=209, 720.44156pt x 697.8572pt>
+File: ./images//PFP_free_nod.png Graphic file (type png)
+<use ./images//PFP_free_nod.png>
+Package pdftex.def Info: ./images//PFP_free_nod.png  used on input line 48.
+(pdftex.def)             Requested size: 256.07481pt x 248.04451pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 25--53
+[]$[]$ $[]$ 
+ []
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.12})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \newpage
+              <./images//PP_free_nod.png> <./images//FP_free_nod.png> <./images
+//FF_free_nod.png> <./images//PFP_free_nod.png>]
+<./images//PP_contact_nod.png, id=222, 722.7pt x 694.09312pt>
+File: ./images//PP_contact_nod.png Graphic file (type png)
+<use ./images//PP_contact_nod.png>
+Package pdftex.def Info: ./images//PP_contact_nod.png  used on input line 61.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FP_contact_nod.png, id=223, 722.7pt x 694.09312pt>
+File: ./images//FP_contact_nod.png Graphic file (type png)
+<use ./images//FP_contact_nod.png>
+Package pdftex.def Info: ./images//FP_contact_nod.png  used on input line 67.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FF_contact_nod.png, id=224, 722.7pt x 694.09312pt>
+File: ./images//FF_contact_nod.png Graphic file (type png)
+<use ./images//FF_contact_nod.png>
+Package pdftex.def Info: ./images//FF_contact_nod.png  used on input line 75.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//PFP_contact_nod.png, id=225, 720.44156pt x 697.8572pt>
+File: ./images//PFP_contact_nod.png Graphic file (type png)
+<use ./images//PFP_contact_nod.png>
+Package pdftex.def Info: ./images//PFP_contact_nod.png  used on input line 81.
+(pdftex.def)             Requested size: 256.07481pt x 248.04451pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 58--86
+[]$[]$ $[]$ 
+ []
+
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.16})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88 \newpage
+              <./images//PP_contact_nod.png> <./images//FP_contact_nod.png> <./
+images//FF_contact_nod.png> <./images//PFP_contact_nod.png>]
+<./images//PP_d.png, id=238, 722.7pt x 694.09312pt>
+File: ./images//PP_d.png Graphic file (type png)
+<use ./images//PP_d.png>
+Package pdftex.def Info: ./images//PP_d.png  used on input line 96.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FP_d.png, id=239, 722.7pt x 694.09312pt>
+File: ./images//FP_d.png Graphic file (type png)
+<use ./images//FP_d.png>
+Package pdftex.def Info: ./images//FP_d.png  used on input line 102.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FF_d.png, id=240, 722.7pt x 694.09312pt>
+File: ./images//FF_d.png Graphic file (type png)
+<use ./images//FF_d.png>
+Package pdftex.def Info: ./images//FF_d.png  used on input line 110.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//PFP_d.png, id=241, 722.7pt x 694.09312pt>
+File: ./images//PFP_d.png Graphic file (type png)
+<use ./images//PFP_d.png>
+Package pdftex.def Info: ./images//PFP_d.png  used on input line 116.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 93--121
+[]$[]$ $[]$ 
+ []
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.20})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.22}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.23}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 \newpage
+               <./images//PP_d.png> <./images//FP_d.png> <./images//FF_d.png> <
+./images//PFP_d.png>]
+<./images//PP_contact_d.png, id=254, 722.7pt x 694.09312pt>
+File: ./images//PP_contact_d.png Graphic file (type png)
+<use ./images//PP_contact_d.png>
+Package pdftex.def Info: ./images//PP_contact_d.png  used on input line 129.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FP_contact_d.png, id=255, 722.7pt x 694.09312pt>
+File: ./images//FP_contact_d.png Graphic file (type png)
+<use ./images//FP_contact_d.png>
+Package pdftex.def Info: ./images//FP_contact_d.png  used on input line 135.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//FF_contact_d.png, id=256, 722.7pt x 694.09312pt>
+File: ./images//FF_contact_d.png Graphic file (type png)
+<use ./images//FF_contact_d.png>
+Package pdftex.def Info: ./images//FF_contact_d.png  used on input line 143.
+(pdftex.def)             Requested size: 256.07481pt x 245.93349pt.
+<./images//PFP_contact_d.png, id=257, 720.44156pt x 697.8572pt>
+File: ./images//PFP_contact_d.png Graphic file (type png)
+<use ./images//PFP_contact_d.png>
+Package pdftex.def Info: ./images//PFP_contact_d.png  used on input line 149.
+(pdftex.def)             Requested size: 256.07481pt x 248.04451pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 126--154
+[]$[]$ $[]$ 
+ []
+
+) [8pdfTeX warning (ext4): destination with the same identifier (name{figure.24
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 \include{sections/ass2}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.25}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 \include{sections/ass2}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.26}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 \include{sections/ass2}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.27}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 \include{sections/ass2}
+                              <./images//PP_contact_d.png> <./images//FP_contac
+t_d.png> <./images//FF_contact_d.png> <./images//PFP_contact_d.png>]
+\openout2 = `sections/ass3.aux'.
+
+
+(./sections/ass3.tex
+<./images//kalman_fp_gauss.png, id=274, 1193.96063pt x 643.6547pt>
+File: ./images//kalman_fp_gauss.png Graphic file (type png)
+<use ./images//kalman_fp_gauss.png>
+Package pdftex.def Info: ./images//kalman_fp_gauss.png  used on input line 89.
+(pdftex.def)             Requested size: 512.14963pt x 276.09827pt.
+ [9
+
+
+
+]
+<./images//kalman_fp_quant.png, id=286, 1193.96063pt x 643.6547pt>
+File: ./images//kalman_fp_quant.png Graphic file (type png)
+<use ./images//kalman_fp_quant.png>
+Package pdftex.def Info: ./images//kalman_fp_quant.png  used on input line 96.
+(pdftex.def)             Requested size: 512.14963pt x 276.09827pt.
+) [10pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.106 \include{sections/ass3}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.29}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.106 \include{sections/ass3}
+                              <./images//kalman_fp_gauss.png> <./images//kalman
+_fp_quant.png>]
+\openout2 = `sections/ass4.aux'.
+
+ (./sections/ass4.tex
+<./images//kalman_s_gauss.png, id=296, 1193.96063pt x 643.6547pt>
+File: ./images//kalman_s_gauss.png Graphic file (type png)
+<use ./images//kalman_s_gauss.png>
+Package pdftex.def Info: ./images//kalman_s_gauss.png  used on input line 38.
+(pdftex.def)             Requested size: 512.14963pt x 276.09827pt.
+<./images//kalman_s_quant.png, id=297, 1193.96063pt x 643.6547pt>
+File: ./images//kalman_s_quant.png Graphic file (type png)
+<use ./images//kalman_s_quant.png>
+Package pdftex.def Info: ./images//kalman_s_quant.png  used on input line 45.
+(pdftex.def)             Requested size: 512.14963pt x 276.09827pt.
+ [11
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.49 
+      <./images//kalman_s_gauss.png>]) [12pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.31}) has been already used, duplicate ignor
+ed
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.110 \include{sections/ass4}
+                              <./images//kalman_s_quant.png>]
+\openout2 = `sections/ass5.aux'.
+
+
+(./sections/ass5.tex
+<./images//ls.png, id=311, 1158.57843pt x 633.86812pt>
+File: ./images//ls.png Graphic file (type png)
+<use ./images//ls.png>
+Package pdftex.def Info: ./images//ls.png  used on input line 38.
+(pdftex.def)             Requested size: 384.11221pt x 210.14433pt.
+) [13
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.114 \include{sections/ass5}
+                              <./images//ls.png>]
+\openout2 = `sections/ass6.aux'.
+
+ (./sections/ass6.tex
+<./images//scattering_fp.png, id=319, 1178.15157pt x 377.91188pt>
+File: ./images//scattering_fp.png Graphic file (type png)
+<use ./images//scattering_fp.png>
+Package pdftex.def Info: ./images//scattering_fp.png  used on input line 7.
+(pdftex.def)             Requested size: 512.14963pt x 164.28078pt.
+<./images//scattering_pp.png, id=320, 1178.15157pt x 377.91188pt>
+File: ./images//scattering_pp.png Graphic file (type png)
+<use ./images//scattering_pp.png>
+Package pdftex.def Info: ./images//scattering_pp.png  used on input line 13.
+(pdftex.def)             Requested size: 512.14963pt x 164.28078pt.
+ [14
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.34}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 \newpage
+              <./images/scattering_FP.png> <./images/scattering_PP.png>]
+<./images//sfp_free_nok.png, id=329, 721.94719pt x 697.8572pt>
+File: ./images//sfp_free_nok.png Graphic file (type png)
+<use ./images//sfp_free_nok.png>
+Package pdftex.def Info: ./images//sfp_free_nok.png  used on input line 50.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//sfp_contact_nok.png, id=330, 721.94719pt x 697.8572pt>
+File: ./images//sfp_contact_nok.png Graphic file (type png)
+<use ./images//sfp_contact_nok.png>
+Package pdftex.def Info: ./images//sfp_contact_nok.png  used on input line 54.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//spp_free_nok.png, id=331, 721.94719pt x 697.8572pt>
+File: ./images//spp_free_nok.png Graphic file (type png)
+<use ./images//spp_free_nok.png>
+Package pdftex.def Info: ./images//spp_free_nok.png  used on input line 60.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//spp_contact_nok.png, id=332, 721.94719pt x 697.8572pt>
+File: ./images//spp_contact_nok.png Graphic file (type png)
+<use ./images//spp_contact_nok.png>
+Package pdftex.def Info: ./images//spp_contact_nok.png  used on input line 64.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 48--68
+[]$[]$ $[]$ 
+ []
+
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.35}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.36}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.37}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.38}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 \newpage
+              <./images//sfp_free_nok.png> <./images//sfp_contact_nok.png> <./i
+mages//spp_free_nok.png> <./images//spp_contact_nok.png>]
+<./images//sfp_free_k.png, id=346, 721.94719pt x 697.8572pt>
+File: ./images//sfp_free_k.png Graphic file (type png)
+<use ./images//sfp_free_k.png>
+Package pdftex.def Info: ./images//sfp_free_k.png  used on input line 77.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//sfp_contact_k.png, id=347, 721.94719pt x 697.8572pt>
+File: ./images//sfp_contact_k.png Graphic file (type png)
+<use ./images//sfp_contact_k.png>
+Package pdftex.def Info: ./images//sfp_contact_k.png  used on input line 81.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//spp_free_k.png, id=348, 721.94719pt x 697.8572pt>
+File: ./images//spp_free_k.png Graphic file (type png)
+<use ./images//spp_free_k.png>
+Package pdftex.def Info: ./images//spp_free_k.png  used on input line 87.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+<./images//spp_contact_k.png, id=349, 721.94719pt x 697.8572pt>
+File: ./images//spp_contact_k.png Graphic file (type png)
+<use ./images//spp_contact_k.png>
+Package pdftex.def Info: ./images//spp_contact_k.png  used on input line 91.
+(pdftex.def)             Requested size: 256.07481pt x 247.52274pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 75--95
+[]$[]$ $[]$ 
+ []
+
+) [16pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \include{sections/ass6}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.40}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \include{sections/ass6}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.41}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \include{sections/ass6}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.42}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \include{sections/ass6}
+                              <./images//sfp_free_k.png> <./images//sfp_contact
+_k.png> <./images//spp_free_k.png> <./images//spp_contact_k.png>]
+\openout2 = `sections/ass7.aux'.
+
+
+(./sections/ass7.tex
+<./images//tank_fp.png, id=362, 1291.07344pt x 482.55281pt>
+File: ./images//tank_fp.png Graphic file (type png)
+<use ./images//tank_fp.png>
+Package pdftex.def Info: ./images//tank_fp.png  used on input line 7.
+(pdftex.def)             Requested size: 512.14963pt x 191.41989pt.
+<./images//tank_pp.png, id=363, 1294.08469pt x 482.55281pt>
+File: ./images//tank_pp.png Graphic file (type png)
+<use ./images//tank_pp.png>
+Package pdftex.def Info: ./images//tank_pp.png  used on input line 13.
+(pdftex.def)             Requested size: 512.14963pt x 190.9781pt.
+<./images//tfp_free_nok.png, id=364, 721.19438pt x 703.12688pt>
+File: ./images//tfp_free_nok.png Graphic file (type png)
+<use ./images//tfp_free_nok.png>
+Package pdftex.def Info: ./images//tfp_free_nok.png  used on input line 33.
+(pdftex.def)             Requested size: 256.07481pt x 249.66006pt.
+<./images//tfp_contact_nok.png, id=365, 721.19438pt x 703.12688pt>
+File: ./images//tfp_contact_nok.png Graphic file (type png)
+<use ./images//tfp_contact_nok.png>
+Package pdftex.def Info: ./images//tfp_contact_nok.png  used on input line 37.
+(pdftex.def)             Requested size: 256.07481pt x 249.66006pt.
+<./images//tpp_free_nok.png, id=366, 718.18312pt x 702.37407pt>
+File: ./images//tpp_free_nok.png Graphic file (type png)
+<use ./images//tpp_free_nok.png>
+Package pdftex.def Info: ./images//tpp_free_nok.png  used on input line 43.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+<./images//tpp_contact_nok.png, id=367, 718.18312pt x 702.37407pt>
+File: ./images//tpp_contact_nok.png Graphic file (type png)
+<use ./images//tpp_contact_nok.png>
+Package pdftex.def Info: ./images//tpp_contact_nok.png  used on input line 47.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 31--51
+[]$[]$ $[]$ 
+ []
+
+[17
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.43}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.52 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.52 
+      <./images//tank_fp.png> <./images//tank_pp.png>]
+<./images//tfp_free_k.png, id=377, 721.19438pt x 703.12688pt>
+File: ./images//tfp_free_k.png Graphic file (type png)
+<use ./images//tfp_free_k.png>
+Package pdftex.def Info: ./images//tfp_free_k.png  used on input line 58.
+(pdftex.def)             Requested size: 256.07481pt x 249.66006pt.
+<./images//tfp_contact_k.png, id=378, 721.19438pt x 703.12688pt>
+File: ./images//tfp_contact_k.png Graphic file (type png)
+<use ./images//tfp_contact_k.png>
+Package pdftex.def Info: ./images//tfp_contact_k.png  used on input line 62.
+(pdftex.def)             Requested size: 256.07481pt x 249.66006pt.
+<./images//tpp_free_k.png, id=379, 718.18312pt x 702.37407pt>
+File: ./images//tpp_free_k.png Graphic file (type png)
+<use ./images//tpp_free_k.png>
+Package pdftex.def Info: ./images//tpp_free_k.png  used on input line 68.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+<./images//tpp_contact_k.png, id=380, 718.18312pt x 702.37407pt>
+File: ./images//tpp_contact_k.png Graphic file (type png)
+<use ./images//tpp_contact_k.png>
+Package pdftex.def Info: ./images//tpp_contact_k.png  used on input line 72.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 56--76
+[]$[]$ $[]$ 
+ []
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.45}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+      <./images//tfp_free_nok.png> <./images//tfp_contact_nok.png> <./images//t
+pp_free_nok.png> <./images//tpp_contact_nok.png>]
+<./images//tpp_free_energy.png, id=393, 718.18312pt x 702.37407pt>
+File: ./images//tpp_free_energy.png Graphic file (type png)
+<use ./images//tpp_free_energy.png>
+Package pdftex.def Info: ./images//tpp_free_energy.png  used on input line 83.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+<./images//tpp_free_0energy.png, id=394, 718.93594pt x 700.86844pt>
+File: ./images//tpp_free_0energy.png Graphic file (type png)
+<use ./images//tpp_free_0energy.png>
+Package pdftex.def Info: ./images//tpp_free_0energy.png  used on input line 86.
+
+(pdftex.def)             Requested size: 256.07481pt x 249.63885pt.
+<./images//tpp_contact_energy.png, id=395, 718.18312pt x 702.37407pt>
+File: ./images//tpp_contact_energy.png Graphic file (type png)
+<use ./images//tpp_contact_energy.png>
+Package pdftex.def Info: ./images//tpp_contact_energy.png  used on input line 9
+1.
+(pdftex.def)             Requested size: 256.07481pt x 250.44307pt.
+<./images//tpp_contact_0energy.png, id=396, 718.93594pt x 700.86844pt>
+File: ./images//tpp_contact_0energy.png Graphic file (type png)
+<use ./images//tpp_contact_0energy.png>
+Package pdftex.def Info: ./images//tpp_contact_0energy.png  used on input line 
+94.
+(pdftex.def)             Requested size: 256.07481pt x 249.63885pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 81--97
+[]$[]$ $[]$ 
+ []
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.49}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+0}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.98 
+      <./images//tfp_free_k.png> <./images//tfp_contact_k.png> <./images//tpp_f
+ree_k.png> <./images//tpp_contact_k.png>]
+<./images//tank_pp_longsim.png, id=409, 718.18312pt x 702.37407pt>
+File: ./images//tank_pp_longsim.png Graphic file (type png)
+<use ./images//tank_pp_longsim.png>
+Package pdftex.def Info: ./images//tank_pp_longsim.png  used on input line 101.
+
+(pdftex.def)             Requested size: 512.14963pt x 500.90758pt.
+<./images//tank_pp_longsim_energy.png, id=410, 718.18312pt x 702.37407pt>
+File: ./images//tank_pp_longsim_energy.png Graphic file (type png)
+<use ./images//tank_pp_longsim_energy.png>
+Package pdftex.def Info: ./images//tank_pp_longsim_energy.png  used on input li
+ne 107.
+(pdftex.def)             Requested size: 512.14963pt x 500.90758pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.53
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.54}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.55}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.56}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+               <./images//tpp_free_energy.png> <./images//tpp_free_0energy.png>
+ <./images//tpp_contact_energy.png> <./images//tpp_contact_0energy.png>]
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.57}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+               <./images//tank_pp_longsim.png>] [22pdfTeX warning (ext4): desti
+nation with the same identifier (name{figure.58}) has been already used, duplic
+ate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.111 \newpage
+               <./images//tank_pp_longsim_energy.png>]
+<./images//tfp_energy.png, id=436, 718.93594pt x 700.86844pt>
+File: ./images//tfp_energy.png Graphic file (type png)
+<use ./images//tfp_energy.png>
+Package pdftex.def Info: ./images//tfp_energy.png  used on input line 118.
+(pdftex.def)             Requested size: 256.07481pt x 249.63885pt.
+<./images//tfp_energy_contact.png, id=437, 718.93594pt x 700.86844pt>
+File: ./images//tfp_energy_contact.png Graphic file (type png)
+<use ./images//tfp_energy_contact.png>
+Package pdftex.def Info: ./images//tfp_energy_contact.png  used on input line 1
+23.
+(pdftex.def)             Requested size: 256.07481pt x 249.63885pt.
+
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 116--126
+[]$[]$ $[]$ 
+ []
+
+) [23pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.122 \include{sections/ass7}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.60}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.122 \include{sections/ass7}
+                              <./images//tfp_energy.png> <./images//tfp_energy_
+contact.png>] (./Physical human-robot interaction report.aux
+(./sections/ass1.aux) (./sections/ass2.aux) (./sections/ass3.aux)
+(./sections/ass4.aux) (./sections/ass5.aux) (./sections/ass6.aux)
+(./sections/ass7.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `"Physical human-robot interaction report".ou
+t' has not changed.
+(rerunfilecheck)             Checksum: 3CEACCE1D3C58CDDC85FF46DBFC6341F;9079.
+ ) 
+Here is how much of TeX's memory you used:
+ 24898 strings out of 478287
+ 458367 string characters out of 5849289
+ 724545 words of memory out of 5000000
+ 42503 multiletter control sequences out of 15000+600000
+ 483312 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,15n,89p,893b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
+/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+frm2074.pfb>
+Output written on "Physical human-robot interaction report.pdf" (27 pages, 4090
+507 bytes).
+PDF statistics:
+ 546 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 494 words of extra memory for PDF output out of 10000 (max. 10000000)
+

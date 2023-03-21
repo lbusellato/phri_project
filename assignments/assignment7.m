@@ -62,10 +62,10 @@ Flp = 1;
 tlcAlpha = 2;
 beta = 0.1;
 Hd = 1;
-%Hm_init = 15; % FP
-%Hs_init = 15; % FP
-Hm_init = 15; % PP
-Hs_init = 15; % PP
+Hm_init = 0.5; % FP
+Hs_init = 0.5; % FP
+%Hm_init = 0; % PP
+%Hs_init = 0; % PP
 
 %% FORCE-POSITION
 % Load and open the Simulink system

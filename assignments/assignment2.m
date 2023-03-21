@@ -45,7 +45,7 @@ Dh = 20*0.8;
 Bs = 4*Bm; 
 Ks = 4*Km; 
 % Transport delay
-d = 0.02; % 20ms
+d =2; % 20ms
     
 %% Load the model
 
