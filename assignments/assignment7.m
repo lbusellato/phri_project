@@ -23,21 +23,20 @@ Ts = 0.001;
 % Robot parameters 
 Mm = 0.5; % Master robot's mass
 Ms = 2;   % Slave robot's mass
-Dm = 0;   % Master damping
-Ds = 0;   % Slave damping
+Ds = 0;
+Dm = 0;
 % Human parameters
 Jh = 1;   % Inertia
-Bh = 1;   % Damping 
-Kh = 0;   % Stiffness               
+Bh = 1;   % Damping          
 % Environment parameters
 Be = 100; % Damping
 Ke = 200; % Stiffness
 xe = 1.5;   % Environment position
 % Sinusoidal reference signal
 A = 1; % Amplitude
-Fc = 0.25;   % Frequency
+Fc = 0.5;   % Frequency
 % Master controller
-Bm = 20*0.8;
+Bm = 40*0.8;
 Km = 10*1;
 % Human controller
 Ph = 10*1; 
@@ -48,34 +47,30 @@ Ks = 4*Km;
 % Transport delay
 d = 10;
 % Noise
-noise = 0;
+noisePos = 0;
 % Kalman
 x0 = [0 0];
 Ak = [1 Ts ; 
      0 1 ]; 
 B = [Ts^2/2; Ts];
 C = [1 0];
-q = 1000000000;
+q = 1e10;
 Q_m = q*(B*B');
 Q_s = q*(B*B');
 R = 1;
-% Low-pass filter for the derivative in Zh
-Flp = 0.1;
-% Tank
-tlcAlpha = 0.1;
-beta = 0.01;
+Flp = 1;
+tlcAlpha = 2;
+beta = 0.1;
 Hd = 1;
-Hm_init = 0.5;
-Hs_init = 0.5;
+%Hm_init = 15; % FP
+%Hs_init = 15; % FP
+Hm_init = 15; % PP
+Hs_init = 15; % PP
 
 %% FORCE-POSITION
-
 % Load and open the Simulink system
 open('tank_FP.slx');
 
 %% POSITION-POSITION
-
 % Load and open the Simulink system
 open('tank_PP.slx');
-
-
